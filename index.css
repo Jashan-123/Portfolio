@@ -1,0 +1,90 @@
+html {
+  scroll-behavior: smooth;
+}
+.body {
+  background-color: #f8f9fa;
+}
+.navbar-brand {
+  color: #007bff !important;
+}
+.nav1 a {
+  color: black !important;
+  opacity: 0.6;
+}
+.nav1 a:hover {
+  color: #007bff !important;
+  opacity: 1;
+}
+.section2 {
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+.text1 {
+  margin-top: 50px;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center;
+}
+.itm {
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center;
+}
+.hi {
+  font-family: cursive;
+  font-size: 20px;
+}
+.iam {
+  font-family: sans-serif;
+  color: #007bff;
+  font-size: 50px;
+}
+.buton {
+  padding: 10px;
+}
+.btn1 {
+  margin-right: 15px;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+.btn2 {
+  margin-left: 15px;
+  padding-left: 23px !important;
+  padding-right: 23px !important;
+}
+.span {
+  font-family: cursive;
+}
+.myself {
+  margin-top: 45px;
+}
+.project-heading {
+  text-align: center;
+}
+.rdcard {
+  align-items: center !important;
+  justify-content: center !important;
+}
+.card1 {
+  height: 250px !important;
+  width: 380px !important;
+}
+.card2 {
+  top: 15px;
+  left: 15px;
+  height: 250px !important;
+  width: 370px !important;
+}
+.title {
+  color: #007bff;
+}
+footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #4ea0f8;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
